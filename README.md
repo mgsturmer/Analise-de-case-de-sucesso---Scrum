@@ -1,2 +1,18 @@
-# Analise-de-case-de-sucesso---Scrum
-Repositório para a entrega do desafio Analise de case de sucesso - Scrum
+# Analise de case de sucesso - Scrum
+
+# Aplicação do Scrum na Sony: Lições de um Caso Real de Transformação Ágil
+
+  A adoção de abordagens ágeis em ambientes de alta complexidade tem sido cada vez mais comum entre grandes empresas. Um bom exemplo disso é a experiência da Sony, em parceria com a consultoria agile42. Eles mostraram, na prática, como mudar de um modelo tradicional pra um framework ágil pode trazer resultados muito significativos — até mesmo em projetos super técnicos e inovadores, como o desenvolvimento de algoritmos pra melhorar imagens em tempo real.
+  Um dos principais motivos pra essa mudança foi a necessidade de um modelo de gestão mais flexível, adaptável mesmo. A equipe da Sony trabalhava com pesquisa e desenvolvimento (P&D), onde é normal lidar com muita incerteza, testar várias ideias, ajustar o rumo conforme as descobertas. Métodos tradicionais, como o famoso cascata (ou Waterfall), exigem um planejamento rígido e escopo bem definido desde o começo — o que simplesmente não fazia sentido nesse tipo de projeto.
+
+  A escolha pelo Scrum veio por ser uma estrutura ágil relativamente simples de entender, com papéis e eventos bem definidos. Pro time da Sony, que vinha de uma cultura mais tradicional, isso foi um ótimo ponto de partida. O Scrum trouxe uma base estruturada, mas sem engessar o processo. E com a ajuda do coaching da agile42, a transição ficou mais leve — aos poucos o time foi entendendo os porquês por trás das práticas, não só o "como fazer".
+
+  Os resultados dessa transformação podem sim ser chamados de inovadores, tanto no que diz respeito ao produto quanto ao processo. Em termos técnicos, o time criou algoritmos de melhoria de imagem otimizados pra rodar direto na GPU, o que é algo bem complexo e valioso. Mas além disso, houve uma mudança real na forma como o time trabalhava: mais autonomia, mais colaboração, entregas mais frequentes. Eles passaram a se comunicar melhor com os parceiros do Japão, por exemplo, por causa da cadência das reuniões do Scrum. Isso tudo fez com que a equipe fosse reconhecida como uma das mais eficazes da Sony Europa.
+
+  Agora, claro que existem outras abordagens que poderiam ter sido consideradas. Se o trabalho fosse ainda mais imprevisível, talvez o Kanban fosse mais adequado, já que ele é mais flexível e ajuda a visualizar o fluxo contínuo de trabalho. Se o objetivo fosse testar ideias novas com mais rapidez, algo como Design Thinking ou Lean Startup também poderia funcionar bem. E se o time tivesse muita maturidade técnica, talvez até o Extreme Programming (XP) trouxesse ganhos — com práticas como TDD, programação em par, etc.
+
+  Algumas curiosidades sobre o projeto também chamam atenção. No começo, por exemplo, o pessoal achava que o Daily Scrum era uma forma de microgerenciamento. Isso é bem comum quando a cultura ainda está se ajustando. Mas com o tempo, eles entenderam que aquilo era pra facilitar o alinhamento diário e não pra controlar o que cada um estava fazendo. Outra coisa interessante foi que o time adaptou o Scrum ao contexto deles — não seguiram tudo à risca, e isso não é um problema. O importante foi que funcionou.
+
+  As retrospectivas se tornaram momentos chave de aprendizado. A equipe usava esse tempo pra ajustar o que não estava indo bem, manter o que funcionava e propor melhorias. Isso criou um ciclo constante de evolução, que é um dos grandes objetivos do Scrum. E o melhor: não foi uma mudança imposta, mas construída junto.
+
+  Enfim, o caso da Sony mostra que o Scrum não serve só pra projetos de software no estilo "app ou sistema". Ele também funciona muito bem em contextos técnicos, complexos, e até de pesquisa. Quando aplicado com entendimento, apoio e espaço pra adaptação, o Scrum não só melhora a entrega — ele transforma a cultura do time e o impacto do que é feito.
